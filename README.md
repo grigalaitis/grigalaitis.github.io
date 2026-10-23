@@ -1,3 +1,3 @@
 # grigalaitis.github.io
 
-Updated README
+Personal use launchpad type website.
